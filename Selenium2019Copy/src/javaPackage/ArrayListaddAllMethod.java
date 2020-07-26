@@ -15,7 +15,7 @@ public class ArrayListaddAllMethod {
 	System.out.println("====Displaying List====");
 	Collections.addAll(list1, str1);
 	System.out.println(list1);
-
+//To check whether this changes are reflecting in git I am adding this comment
 
 	}
 
