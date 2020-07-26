@@ -1,0 +1,4 @@
+class AddingNewFileInGit
+{
+System.out.println("Checking that this file I have created in Git and now want to pull this in Eclipse");
+}
